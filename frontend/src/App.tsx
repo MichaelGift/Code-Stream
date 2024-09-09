@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import EditorWindow from "./MonacoEditor.tsx";
-import './App.css'
 
 function App() {
 
